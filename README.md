@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ejercicios del libro C Programming: A Modern Approach
 
 <!--
 **Laberco/laberco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
